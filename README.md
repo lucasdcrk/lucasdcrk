@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.ibb.co/Kmp8Bzs/IMG-6651.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://lucas.upld.sh/ds/Photo-2024-06-08-00-45.jpeg');]{x0000}$}
